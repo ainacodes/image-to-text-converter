@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple tools that converts images to text
+This is a simple tools that converts images to text. You can test the [demo here](https://ainacodes.pythonanywhere.com/)
 
 ## Tech stack
 
